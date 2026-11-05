@@ -1,0 +1,15 @@
+{
+  "repository": "module-localization-contracts-nextjs",
+  "capabilityKey": "liberusoftware/localization-contracts",
+  "presentation": "next-react",
+  "package": "@liberusoftware/module-localization-contracts-nextjs",
+  "foundation": "module-boilerplate-nextjs",
+  "foundationCommit": "f36c3c383b38a8ebedb343dffa24cf64bec1817b",
+  "canonicalPlan": "projects/crm/nextjs/localization-contracts.md",
+  "presentationPlan": "projects/crm/nextjs/localization-contracts.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "crm"
+  ]
+}
